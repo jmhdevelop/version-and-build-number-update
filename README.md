@@ -12,13 +12,13 @@ Whit this the update_build_number.sh will be exsecuted the the proyect it's buil
 ${SRCROOT}/update_build_number.sh
 ```
 The result should be like this:
-![script_xcode](https://octodex.github.com/images/yaktocat.png)
+![script_xcode](https://github.com/jmhdevelop/version-and-build-number-update/blob/master/script_xcode.png)
 
 **3. Version and build number.**
 Make sure the only numbers you change manually in the version (X.Z.Y) are X and Z because Y it's the number that going to be changed automatically. In the case of the build number you dont need to do nothing.
 
 Should look something like this:
-![version_build_number](https://octodex.github.com/images/yaktocat.png)
+![version_build_number](https://github.com/jmhdevelop/version-and-build-number-update/blob/master/version_build_number.png)
 
 ## Note.
 If you like you can set the build number to 1 because of the number of commits it's a unique number a it's always change. You don't necessarily needs to increased the build number if you like.
